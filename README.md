@@ -271,8 +271,7 @@ MHAI is commercial software. A valid license is required to use the application.
 
 **Available Plans:**
 - **30-Day License** — Monthly subscription
-- **365-Day License** — Annual subscription
-- **Lifetime License** — One-time purchase, permanent access
+- **180-Day License** — Annual subscription
 
 Visit the application's built-in license activation window to purchase and activate your license.
 
